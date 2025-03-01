@@ -1,0 +1,396 @@
+.h1{
+    /* font-size: 100px; */
+    color: rgba(251, 250, 248, 0.968);
+    font-weight: 900!important;
+}
+.inner-box2{
+    min-height: 200px;
+    background-color: rgba(3, 3, 3, 0.786);
+    color: white;
+    padding: 20px;
+    margin: 15px;
+    
+}
+.inner-box2{
+    min-height: 200px;
+    background-color: rgba(3, 3, 3, 0.786);
+    color: white;
+    padding: 20px;
+    margin: 15px;
+    
+}
+.inner-box2{
+    min-height: 200px;
+    background-color: rgba(3, 3, 3, 0.786);
+    color: white;
+    padding: 20px;
+    margin: 15px;
+}
+.sec1{
+    background-color: white;
+    min-height: 600px;
+}
+.hed{
+    padding: 50px;
+    text-align: center;
+    
+}
+.box1{
+    height: 5px;
+    background-color: rgb(246, 169, 5);
+    width: 50px;
+    margin: auto;
+    
+}
+.para1{
+    text-align: center;
+}
+.inner-box5{
+    background-color: rgb(241, 239, 239);
+    min-height: 200px;
+   margin-bottom: 50px;
+}
+.para2{
+    text-align: center;
+    padding: 20px;
+}
+.sec2{
+    background-color:rgb(241, 239, 239) ;
+    min-height: 900px;
+}
+.hed2{
+    text-align: center;
+    padding: 70px;
+    
+}
+.para3{
+    text-align: center;
+    margin-bottom: 60px;
+
+    
+}
+.hed3{
+    padding: 50px;
+    text-align: center;
+    font-size: 80px;
+}
+.para4{
+    text-align: center;
+    
+    
+
+}
+.inner-box5{
+    text-align: center;
+}
+.inner-box11{
+    height: 300px;
+    background-color: rgb(254, 162, 2);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    
+    
+}
+.inner-box12{
+    min-height: 300px;
+    background-image: url(emp.jpg);
+    background-position: center;
+    background-size: contain;
+    
+   
+   
+    
+    
+}
+.inner-box13{
+    height:300px;
+    background-color: rgb(254, 162, 2);
+    color: white;
+    padding: 20px;
+   
+    
+}
+.hed4{
+    text-align: center;
+    padding: 50px;
+}
+.para5{
+text-align: center;
+}
+.hed5{
+    text-align: center;
+    padding: 50px;
+}
+.para6{
+    text-align: center;
+}
+.inner-box14{
+  height: 300px;
+  background-image: url(construction.jpg);
+  background-position: center;
+  background-size: contain;
+}
+
+.inner-box15{
+    height: 300px;
+    background-color: white;
+    color:black;
+    padding: 20px;
+}
+
+.inner-box16{
+    height: 300px;
+    background-image: url(mission\ work.jpg);
+    background-position: center;
+    background-size: contain;
+}
+.hed6{
+    text-align: center;
+    padding: 40px;
+}
+.para7{
+    text-align: center;
+    
+}
+.hed7{
+    text-align: center;
+    padding: 20px;
+}
+
+.box2{
+    background-color: rgba(3, 3, 3, 0.829);
+    min-height: 300px;
+    
+   
+}
+.inner-box17{
+   margin: 50px;
+    text-align: center;
+}
+.hed7{
+    color: white;
+}
+.hed8{
+    color: rgb(254, 162, 2);
+}
+.sec4{
+    background-color: white;
+    
+}
+
+ .nav-pills  .active{
+    background-color: rgb(254, 162, 2) !important;
+    
+ }
+ .nav-pills{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+ }
+ .hed9{
+    font-weight: bold;
+    padding: 15px;
+ }
+ .para10{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.397);
+ }
+.img2{
+    height: 290px;
+    
+}
+.sec5{
+    background-color: white;
+    min-height: 500px;
+}
+.hed11{
+  text-align: center;
+  font-weight: 300;
+  
+}
+.para9{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.567);
+    margin: 30px;
+}
+.inner-box21{
+    background-color: rgba(193, 135, 60, 0.684);
+    height: 170px;
+   
+}
+.inner-box22{
+    background-color: rgba(213, 152, 30, 0.178);
+    min-height: 400px;
+    text-align: center;
+}
+.inner-box23{
+    background-color: rgba(252, 144, 4, 0.844);
+    height: 170px;
+    
+   
+}
+.inner-box24{
+    background-color: rgba(201, 190, 190, 0.268);
+    min-height: 400px;
+    text-align: center;
+}
+.hed13{
+    text-align: center;
+    color: black;
+    padding: 20px;
+    font-weight: bold;
+}
+.para11{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.hed16{
+    text-align: center;
+    color: rgba(251, 251, 251, 0.936);
+    padding: 20px;
+    font-weight: bold;
+}
+.para12{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.919);
+
+}
+
+.para15{
+    text-align: center;
+   padding-top: 30px;
+    color: black;
+    font-weight: bold;
+}
+.para16{
+    text-align: center;
+   padding-top: 30px;
+    color: black;
+    font-weight: bold;
+}
+.box3{
+    background-color: rgba(238, 245, 245, 0.525);
+    min-height: 300px;
+}
+.hed20{
+    color: white;
+    /* font-size: 90px; */
+    font-weight: 900;
+    text-align: center;
+    margin:70px;
+}
+.para17{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.inner-box27{
+    background-color: white;
+    margin: 50px;
+    min-height: 300px;
+    /* text-align: center; */
+   
+    
+
+}
+.img6{
+    border-radius: 100%;
+     padding: 10px;
+     margin: 30px;
+  
+
+}
+.para18{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.inner-box28{
+    text-align: center;
+}
+.inner-box29{
+    background-color: rgba(243, 238, 238, 0.812);
+    min-height: 600px;
+}
+.para19{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.inner-box30{
+    background-color: rgb(245, 244, 240);
+    min-height: 300px;
+    margin: 20px;
+}
+.para20{
+    text-align: center;
+    font-size: 20px;
+    padding: 70px;
+}
+.para21{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.para22{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
+}
+.inner-box31{
+    text-align: center;
+}
+.sec7{
+    background-color: black;
+    min-height: 500px;
+}
+.inner-box33{
+    background-color: white;
+    min-height: 300px;
+    margin-top: 70px;
+    text-align: center;
+    padding: 30px;
+    
+}
+.inner-box34{
+    background-color: rgb(252, 145, 4);
+    min-height: 300px;
+    margin-top: 70px;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.para23{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 50px;
+  
+}
+.para24{
+    text-align: center;
+}
+
+.para25{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 50px;
+    color: white;
+}
+.para26{
+    text-align: center;
+    color: white;
+}
+.navbar-nav li a{
+    color: white!important;
+}
+
+
+
